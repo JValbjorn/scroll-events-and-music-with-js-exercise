@@ -239,7 +239,7 @@ div#cta-book-travel {
     padding-top: 40px;
 	-webkit-animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
 	        animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
-                background-color: lightblue;
+                color: lightblue;
 }
 
 
@@ -251,7 +251,7 @@ div#cta-book-travel {
     padding-top: 40px;
 	-webkit-animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
 	        animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
-                background-color: lightblue;
+                color: lightblue;
 }
 
 /* ----------------------------------------------
