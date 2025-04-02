@@ -108,7 +108,7 @@ div.video.parallax{
 button.btn.btn-primary.btn-lg.btn-block {
     width: 508px;
     height: 120px;
-    background-color: darkorange;
+    background-color: lightblue;
     font-size: 3.7em;
     color: ghostwhite;
 }
@@ -239,6 +239,7 @@ div#cta-book-travel {
     padding-top: 40px;
 	-webkit-animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
 	        animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
+                background-color: lightblue;
 }
 
 
@@ -250,6 +251,7 @@ div#cta-book-travel {
     padding-top: 40px;
 	-webkit-animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
 	        animation: text-pop-up-top 2.1s linear infinite alternate-reverse forwards;
+                background-color: lightblue;
 }
 
 /* ----------------------------------------------
