@@ -71,15 +71,15 @@ html{
 }
 
 .container .pa{
-    background-image: url("../img/paris.jpg");
+    background-image: url("../img/malaga.avif");
 }
 
 .container .ist{
-    background-image: url("../img/istanbul.jpg");
+    background-image: url("../img/kobenhavn.avif");
 }
 
 .container .fir{
-    background-image: url("../img/firenze.jpg");
+    background-image: url("../img/thailand.webp");
 }
 
 .container .hol{
